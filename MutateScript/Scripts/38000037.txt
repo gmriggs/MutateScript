@@ -1,0 +1,8 @@
+0x38000037 Mutation #1:
+
+Tier chances: 1
+
+    - Chance 1:
+        ImbuedEffect = 4096
+        NumTimesTinkered >= 1, add 1
+

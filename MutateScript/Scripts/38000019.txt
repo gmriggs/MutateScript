@@ -1,0 +1,8 @@
+0x38000019 Mutation #1:
+
+Tier chances: 1
+
+    - Chance 1:
+        EncumbranceVal *= 0.75
+        NumTimesTinkered >= 1, add 1
+
